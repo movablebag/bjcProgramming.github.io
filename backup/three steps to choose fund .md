@@ -1,0 +1,1 @@
+one：select fund manager with three-year terms
